@@ -1,0 +1,5 @@
+# The organism's living body: memory DB, grown skills, logs. This is state the
+# organism creates as it grows — not source code — so we don't commit it.
+.organism/
+__pycache__/
+*.pyc

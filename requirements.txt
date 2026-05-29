@@ -1,0 +1,8 @@
+# The organism runs on the Python standard library alone — zero installs needed.
+# These are OPTIONAL upgrades:
+
+# Gives the organism a real reasoning brain (Claude). Set ANTHROPIC_API_KEY too.
+anthropic>=0.40.0
+
+# Slightly nicer web fetching. The organism falls back to urllib without it.
+requests>=2.31.0
